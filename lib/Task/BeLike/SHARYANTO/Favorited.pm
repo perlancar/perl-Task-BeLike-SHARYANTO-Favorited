@@ -23,7 +23,7 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 
 =pkg App::cpanoutdated
 
-=pkg cpan::listchanges
+=pkg App::cpanlistchanges
 
 =pkg App::pmuninstall
 
@@ -142,7 +142,5 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 =pkg Data::DPath
 
 =pkg Log::Any
-
-=pkg Marpa
 
 =cut
