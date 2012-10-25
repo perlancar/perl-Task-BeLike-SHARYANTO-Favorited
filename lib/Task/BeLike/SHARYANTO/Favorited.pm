@@ -11,6 +11,18 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 
 =pkgroup Included modules
 
+=pkg Dist::Zilla::Plugin::ShareDir::Tarball
+
+=pkg File::ShareDir::Tarball
+
+=pkg File::ShareDir
+
+=pkg Test::Harness
+
+=pkg Devel::NYTProf
+
+=pkg Devel::SizeMe
+
 =pkg Data::Rmap
 
 =pkg HTML::Escape
