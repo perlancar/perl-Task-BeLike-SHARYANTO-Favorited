@@ -11,6 +11,128 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 
 =pkgroup Included modules
 
+=pkg returning
+
+=pkg Data::Structure::Util
+
+=pkg Data::Dumper::GUI
+
+=pkg Scope::Upper
+
+=pkg Filesys::Notify::Simple
+
+=pkg experimental
+
+=pkg MIME::Lite::HTML
+
+=pkg Signal::Mask
+
+=pkg Log::Any::Adapter
+
+=pkg Convert::Color
+
+=pkg Alt
+
+=pkg UNIVERSAL::new
+
+=pkg Tie::Simple
+
+=pkg DateTime::Format::Mail
+
+=pkg HTML::FromANSI
+
+=pkg App::sourcepan
+
+=pkg Routes::Tiny
+
+=pkg Module::Version
+
+=pkg Text::Fuzzy
+
+=pkg Term::ANSIScreen
+
+=pkg Text::CharWidth
+
+=pkg Pod::Text::Ansi
+
+=pkg App::httpstatus
+
+=pkg Authen::Passphrase
+
+=pkg Dir::Purge
+
+=pkg DBIx::DataModel
+
+=pkg Sys::Detect::Virtualization
+
+=pkg Xen::API
+
+=pkg Hash::Case
+
+=pkg Taint::Runtime
+
+=pkg IPC::Run3
+
+=pkg IPC::Run
+
+=pkg Test::Pretty
+
+=pkg File::Flock::Tiny
+
+=pkg App::PipeFilter
+
+=pkg Time::Duration
+
+=pkg Class::XSAccessor
+
+=pkg Expect
+
+=pkg Perl::Tidy
+
+=pkg Devel::TraceINC
+
+=pkg App::Nopaste
+
+=pkg Lingua::IT::Numbers
+
+=pkg Tie::IxHash
+
+=pkg Lingua::EN::Numbers
+
+=pkg Lingua::ZH::Numbers
+
+=pkg Promises
+
+=pkg Term::ExtendedColor
+
+=pkg forkprove
+
+=pkg SemVer
+
+=pkg Perl::Version
+
+=pkg Lingua::FR::Numbers
+
+=pkg String::Escape
+
+=pkg CPAN::Mini
+
+=pkg Farabi
+
+=pkg File::Rsync::Mirror::Recent
+
+=pkg JSON::XS
+
+=pkg Pinto
+
+=pkg Role::Tiny
+
+=pkg App::PAUSE::cleanup
+
+=pkg WWW::PAUSE::CleanUpHomeDir
+
+=pkg LWP::Protocol::Net::Curl
+
 =pkg Dist::Zilla::Plugin::ShareDir::Tarball
 
 =pkg File::ShareDir::Tarball
