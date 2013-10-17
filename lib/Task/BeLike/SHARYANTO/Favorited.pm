@@ -11,6 +11,32 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 
 =pkgroup Included modules
 
+=pkg Python::Decorator
+
+=pkg Sereal
+
+=pkg Sereal::Encoder
+
+=pkg Sereal::Decoder
+
+=pkg Devel::ptkdb
+
+=pkg Devel::hdb
+
+=pkg Text::Markdown::Hoedown
+
+=pkg Test::Tester
+
+=pkg App::cpackage
+
+=pkg Unicode::LineBreak
+
+=pkg App::Uni
+
+=pkg Term::Shell
+
+=pkg Devel::TraceUse
+
 =pkg returning
 
 =pkg Data::Structure::Util
@@ -50,8 +76,6 @@ This task will install modules favorited by SHARYANTO on L<http://metacpan.org>.
 =pkg Text::Fuzzy
 
 =pkg Term::ANSIScreen
-
-=pkg Text::CharWidth
 
 =pkg Pod::Text::Ansi
 
